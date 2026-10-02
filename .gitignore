@@ -1,0 +1,17 @@
+# Raw and working data should stay local unless explicitly approved for redistribution
+*.xlsx
+*.csv
+*.xls
+
+# Office temp/lock files
+~$*
+*.tmp
+*.bak
+
+# Operating system clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
